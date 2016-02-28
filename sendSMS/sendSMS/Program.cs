@@ -23,7 +23,7 @@ namespace sendSMS
 
             OpenPort();
             bool result;
-            result = sendSMS("Hello phone!", "+375123456789");
+            result = sendSMS("Hello phone!", "00923232195015");
 
             if (result == true)
             {
