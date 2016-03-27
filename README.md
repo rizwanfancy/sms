@@ -1,11 +1,3 @@
-# sms
-send sms with c# and 3G modem
+### SMS Sending Software
 
-##SMS
-
-###SMS
-####SMS
-
-*Bold*
-_Italic_
-
+**This is Test Bold** and also test this _italic_
